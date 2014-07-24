@@ -1,4 +1,12 @@
-EcomStore
+AngularJS-Ecommerce
 =========
 
-ระบบคงคลังสินค้า ซื้อขาย online
+ระบบคงคลังซื้อของออนไลน์ with AngularJS & LaravelPHP
+
+
+
+
+
+
+=========
+Tomato Ideas Co., Ltd. License. 
